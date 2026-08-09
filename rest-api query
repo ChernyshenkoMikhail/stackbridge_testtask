@@ -1,0 +1,4 @@
+GET /api/v1/partner-stores
+Host: api.petrushka-zelenaya.ru
+Accept: application/json
+Authorization: Bearer <access_token>
