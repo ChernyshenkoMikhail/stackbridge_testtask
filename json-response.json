@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "id": "metro",
+      "name": "METRO",
+      "delivery": {
+        "type": "scheduled",
+        "text": "Ближайшая доставка сегодня 21:00–23:00"
+      },
+      "logo": {
+        "url": "https://cdn.example.com/logos/metro.png",
+        "alt": "METRO"
+      },
+      "external_url": "https://www.metro-cc.ru/"
+    },
+    {
+      "id": "auchan",
+      "name": "Ашан",
+      "delivery": {
+        "type": "scheduled",
+        "text": "Ближайшая доставка сегодня 18:00–20:00"
+      },
+      "logo": {
+        "url": "https://cdn.example.com/logos/auchan.png",
+        "alt": "Ашан"
+      },
+      "external_url": "https://www.auchan.ru/"
+    },
+    {
+      "id": "vkusvill",
+      "name": "ВкусВилл",
+      "delivery": {
+        "type": "express",
+        "text": "Быстрая доставка от 20 до 60 минут"
+      },
+      "logo": {
+        "url": "https://cdn.example.com/logos/vkusvill.png",
+        "alt": "ВкусВилл"
+      },
+      "external_url": "https://vkusvill.ru/"
+    },
+    {
+      "id": "victoria",
+      "name": "ВИКТОРИЯ",
+      "delivery": {
+        "type": "scheduled",
+        "text": "Ближайшая доставка сегодня 17:00–19:00"
+      },
+      "logo": {
+        "url": "https://cdn.example.com/logos/victoria.png",
+        "alt": "ВИКТОРИЯ"
+      },
+      "external_url": "https://viktoria.ru/"
+    }
+  ]
+}
